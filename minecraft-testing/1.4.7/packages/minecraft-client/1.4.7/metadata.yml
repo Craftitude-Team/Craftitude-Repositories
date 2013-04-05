@@ -1,0 +1,8 @@
+Name: Minecraft Client
+Maintainers:
+- Carl Kittelberger <icedream@modernminas.de>
+Developers:
+- "Mojang AB"
+License: Minecraft Terms; http://minecraft.net/terms
+Dependencies: [ "lwjgl", "lwjgl-util", "jinput" ]
+PlatformDependency: False

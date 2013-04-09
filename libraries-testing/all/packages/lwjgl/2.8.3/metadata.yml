@@ -1,0 +1,11 @@
+---
+Name: Lighweight Java Game Library
+Description: Lighweight Java Game Library
+Homepage: http://lwjgl.org/
+UpdateTimestamp: "2012-01-23T23:13:48+01:00"
+Maintainers:
+- Carl Kittelberger <icedream@modernminas.de>
+Dependencies:
+- lwjgl-platform
+- jinput
+...

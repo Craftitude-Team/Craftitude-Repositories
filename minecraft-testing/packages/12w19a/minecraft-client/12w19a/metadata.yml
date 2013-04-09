@@ -1,0 +1,18 @@
+---
+Name: Minecraft Client
+Description: |
+  Minecraft vanilla game client by Mojang.
+Homepage: http://minecraft.net/
+Maintainers:
+- Carl Kittelberger <icedream@modernminas.de>
+Developers:
+- Mojang AB; http://mojang.com/
+License: Minecraft Terms; http://minecraft.net/terms
+Dependencies:
+- lwjgl
+- lwjgl-util
+- jinput
+HasPlatformDependentFiles: false
+HasPlatformIndependentFiles: true
+UpdateTimestamp: "2012-05-10T11:03:12.000Z"
+...

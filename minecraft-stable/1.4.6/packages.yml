@@ -1,6 +1,6 @@
 ---
 minecraft-client:
-  1.4.6:
+  Metadata:
     Name: Minecraft Client
     Maintainers:
     - Carl Kittelberger <icedream@modernminas.de>
@@ -13,4 +13,5 @@ minecraft-client:
     - jinput
     HasPlatformDependentFiles: false
     HasPlatformIndependentFiles: true
+  CurrentVersion: 1.4.6
 ...

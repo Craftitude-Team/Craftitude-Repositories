@@ -1,0 +1,10 @@
+---
+minecraft-client:
+  CurrentVersion: 13w03a
+  Versions:
+  - 13w03a
+minecraft-server:
+  CurrentVersion: 13w03a
+  Versions:
+  - 13w03a
+...

@@ -1,0 +1,10 @@
+---
+minecraft-client:
+  CurrentVersion: 1.8-pre
+  Versions:
+  - 1.8-pre
+minecraft-server:
+  CurrentVersion: 1.8-pre
+  Versions:
+  - 1.8-pre
+...

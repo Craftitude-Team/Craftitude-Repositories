@@ -1,0 +1,10 @@
+---
+minecraft-client:
+  CurrentVersion: 1.9-pre6
+  Versions:
+  - 1.9-pre6
+minecraft-server:
+  CurrentVersion: 1.9-pre6
+  Versions:
+  - 1.9-pre6
+...

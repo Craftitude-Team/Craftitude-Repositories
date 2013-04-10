@@ -1,0 +1,10 @@
+---
+minecraft-client:
+  CurrentVersion: rc2
+  Versions:
+  - rc2
+minecraft-server:
+  CurrentVersion: rc2
+  Versions:
+  - rc2
+...

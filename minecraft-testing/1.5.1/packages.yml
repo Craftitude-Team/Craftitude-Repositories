@@ -1,0 +1,10 @@
+---
+minecraft-client:
+  CurrentVersion: 1.5.1
+  Versions:
+  - 1.5.1
+minecraft-server:
+  CurrentVersion: 1.5.1
+  Versions:
+  - 1.5.1
+...

@@ -1,0 +1,88 @@
+@@ -2,60 +2,38 @@
+ jinput:
+-  Metadata:
+-    Name: JInput
+-    Description: Library for access to input devices.
+-    Homepage: http://java.net/projects/jinput
+-    UpdateTimestamp: "2011-03-22T22:12:02+00:00"
+-    Maintainers:
+-    - Carl Kittelberger <icedream@modernminas.de>
+-    Developers:
+-    - Members; http://java.net/projects/jinput/members
+-    License: BSD; http://www.opensource.org/licenses/bsd-license.php
+-    Dependencies:
+-    - jutils
+-    - jinput-platform
+   CurrentVersion: 2.0.4
++  Versions:
++  - 2.0.5
++  - 2.0.4
+ lwjgl-platform:
+-  Metadata:
+-    Name: Lighweight Java Game Library - Platform
+-    Description: Lighweight Java Game Library - Platform
+-    Homepage: http://lwjgl.org/
+-    UpdateTimestamp: "2011-11-14T17:40:10+00:00"
+-    Maintainers:
+-    - Carl Kittelberger <icedream@modernminas.de>
+   CurrentVersion: 2.8.2
++  Versions:
++  - 2.8.1
++  - 2.8.4
++  - 2.8.0
++  - 2.8.5
++  - 2.8.3
++  - 2.8.2
+ jinput-platform:
+-  Metadata:
+-    Name: JInput natives
+-    Description: Library for access to input devices.
+-    Homepage: http://java.net/projects/jinput
+-    UpdateTimestamp: "2011-03-22T22:12:21+00:00"
+-    Maintainers:
+-    - Carl Kittelberger <icedream@modernminas.de>
+-    Developers:
+-    - Members; http://java.net/projects/jinput/members
+-    License: BSD; http://www.opensource.org/licenses/bsd-license.php
+   CurrentVersion: 2.0.4
++  Versions:
++  - 2.0.5
++  - 2.0.4
+ lwjgl_util:
+-  Metadata:
+-    Name: Lighweight Java Game Library
+-    Description: Lighweight Java Game Library
+-    Homepage: http://lwjgl.org/
+-    UpdateTimestamp: "2011-11-14T17:40:54+00:00"
+-    Maintainers:
+-    - Carl Kittelberger <icedream@modernminas.de>
+-    Dependencies:
+-    - lwjgl
+   CurrentVersion: 2.8.2
++  Versions:
++  - 2.8.1
++  - 2.8.4
++  - 2.8.0
++  - 2.8.5
++  - 2.8.3
++  - 2.8.2
+ lwjgl:
+-  Metadata:
+-    Name: Lighweight Java Game Library
+-    Description: Lighweight Java Game Library
+-    Homepage: http://lwjgl.org/
+-    UpdateTimestamp: "2011-11-14T17:38:51+00:00"
+-    Maintainers:
+-    - Carl Kittelberger <icedream@modernminas.de>
+-    Dependencies:
+-    - lwjgl-platform
+-    - jinput
+   CurrentVersion: 2.8.2
++  Versions:
++  - 2.8.1
++  - 2.8.4
++  - 2.8.0
++  - 2.8.5
++  - 2.8.3
++  - 2.8.2
+ ...

@@ -3,6 +3,8 @@ Name: JInput natives
 Description: Library for access to input devices.
 Homepage: http://java.net/projects/jinput
 UpdateTimestamp: "2011-03-22T22:12:21+00:00"
+HasPlatformDependentFiles: true
+HasPlatformIndependentFiles: false
 Maintainers:
 - Carl Kittelberger <icedream@modernminas.de>
 Developers:

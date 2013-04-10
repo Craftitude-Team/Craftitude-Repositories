@@ -3,6 +3,8 @@ Name: Lighweight Java Game Library
 Description: Lighweight Java Game Library
 Homepage: http://lwjgl.org/
 UpdateTimestamp: "2011-11-14T17:38:51+00:00"
+HasPlatformDependentFiles: false
+HasPlatformIndependentFiles: true
 Maintainers:
 - Carl Kittelberger <icedream@modernminas.de>
 Dependencies:

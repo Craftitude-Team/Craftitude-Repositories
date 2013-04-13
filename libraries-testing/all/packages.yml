@@ -1,0 +1,77 @@
+---
+Packages:
+  jinput:
+    Name: JInput
+    Description: Library for access to input devices.
+    Homepage: http://java.net/projects/jinput
+    Platforms:
+    - all
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - Members; http://java.net/projects/jinput/members
+    License: BSD; http://www.opensource.org/licenses/bsd-license.php
+    Versions:
+      2.0.4:
+        Date: "2011-03-22T22:12:02+00:00"
+        Dependencies:
+        - jutils
+        - jinput-platform
+  lwjgl-platform:
+    Name: Lighweight Java Game Library - Platform
+    Description: Lighweight Java Game Library - Platform
+    Homepage: http://lwjgl.org/
+    Platforms:
+    - windows
+    - osx
+    - linux
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Versions:
+      2.8.2:
+        Date: "2011-10-14T20:06:46+00:00"
+  jinput-platform:
+    Name: JInput natives
+    Description: Library for access to input devices.
+    Homepage: http://java.net/projects/jinput
+    Platforms:
+    - windows
+    - osx
+    - linux
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - Members; http://java.net/projects/jinput/members
+    License: BSD; http://www.opensource.org/licenses/bsd-license.php
+    Versions:
+      2.0.4:
+        Date: "2011-03-22T22:12:21+00:00"
+  lwjgl_util:
+    Name: Lighweight Java Game Library
+    Description: Lighweight Java Game Library
+    Homepage: http://lwjgl.org/
+    Platforms:
+    - all
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Versions:
+      2.8.2:
+        Date: "2011-10-14T20:07:26+00:00"
+        Dependencies:
+        - lwjgl
+  lwjgl:
+    Name: Lighweight Java Game Library
+    Description: Lighweight Java Game Library
+    Homepage: http://lwjgl.org/
+    Platforms:
+    - all
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Versions:
+      2.8.2:
+        Date: "2011-10-14T20:05:34+00:00"
+        Dependencies:
+        - lwjgl-platform
+        - jinput
+Version: 0
+...

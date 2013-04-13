@@ -1,0 +1,14 @@
+---
+Name: JInput natives
+Description: Library for access to input devices.
+Homepage: http://java.net/projects/jinput
+Platforms:
+- windows
+- osx
+- linux
+Maintainers:
+- Carl Kittelberger <icedream@modernminas.de>
+Developers:
+- Members; http://java.net/projects/jinput/members
+License: BSD; http://www.opensource.org/licenses/bsd-license.php
+...

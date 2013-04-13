@@ -1,0 +1,73 @@
+---
+Packages:
+  minecraft-client:
+    Name: Minecraft Client
+    Description: |
+      Minecraft vanilla game client by Mojang.
+    Homepage: http://minecraft.net/
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - Mojang AB; http://mojang.com/
+    License:
+      Name: Minecraft Terms
+      URL: http://minecraft.net/terms
+    Platforms:
+    - all
+    Dependencies:
+    - requires lwjgl
+    - excludes lwjgl =2.8.5
+    - excludes lwjgl =2.8.1
+    - requires lwjgl-util
+    - requires jinput
+    - suggests paul-soundsystem
+    - suggests paul-soundsystem-lwjgl-openal-plugin
+    - suggests paul-soundsystem-jogg-codec-plugin
+    Versions:
+      "1.4":
+        Name: Minecraft Client
+        Description: |
+          Minecraft vanilla game client by Mojang.
+        Homepage: http://minecraft.net/
+        Maintainers:
+        - Carl Kittelberger <icedream@modernminas.de>
+        Developers:
+        - Mojang AB; http://mojang.com/
+        License: Minecraft Terms; http://minecraft.net/terms
+        Dependencies:
+        - lwjgl
+        - lwjgl-util
+        - jinput
+        HasPlatformDependentFiles: false
+        HasPlatformIndependentFiles: true
+        UpdateTimestamp: "2012-10-19T12:27:19.000Z"
+  minecraft-server:
+    Name: Minecraft Server
+    Description: |
+      Minecraft vanilla game server by Mojang.
+    Homepage: http://minecraft.net/
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - Mojang AB; http://mojang.com/
+    License:
+      Name: Minecraft Terms
+      URL: http://minecraft.net/terms
+    Platforms:
+    - all
+    Versions:
+      "1.4":
+        Name: Minecraft Server
+        Description: |
+          Minecraft vanilla game server by Mojang.
+        Homepage: http://minecraft.net/
+        Maintainers:
+        - Carl Kittelberger <icedream@modernminas.de>
+        Developers:
+        - Mojang AB; http://mojang.com/
+        License: Minecraft Terms; http://minecraft.net/terms
+        HasPlatformDependentFiles: false
+        HasPlatformIndependentFiles: true
+        UpdateTimestamp: "2012-10-19T12:27:19.000Z"
+Version: 0
+...

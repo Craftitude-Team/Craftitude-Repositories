@@ -1,0 +1,11 @@
+---
+Name: Lighweight Java Game Library - Platform
+Description: Lighweight Java Game Library - Platform
+Homepage: http://lwjgl.org/
+Platforms:
+- windows
+- osx
+- linux
+Maintainers:
+- Carl Kittelberger <icedream@modernminas.de>
+...

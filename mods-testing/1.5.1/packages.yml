@@ -1,0 +1,44 @@
+---
+Packages:
+  computercraft:
+    Name: ComputerCraft
+    Description: |
+      ComputerCraft adds computers, turtles, networking, printing and
+      other electronic peripherals to Minecraft.
+    Homepage: http://computercraft.info/
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - dan200; http://www.minecraftforum.net/user/991899-dan200/
+    License: "I authorise and encourage people to create and distribute lua\nprograms
+      for ComputerCraft however they see fit (try the forums\nat computercraft.info!).
+      I also give permission for ComputerCraft\nto be included in any and all mod
+      packs, provided that the\nComputerCraft files are included completely unmodified.\nIf
+      you include ComputerCraft in a popular modpack, please\nconsider donating to
+      the development of the mod. \n"
+    HasPlatformDependentFiles: false
+    HasPlatformIndependentFiles: true
+    Versions:
+      "1.52":
+        Name: ComputerCraft
+        Description: |
+          ComputerCraft adds computers, turtles, networking, printing and
+          other electronic peripherals to Minecraft.
+        Homepage: http://computercraft.info/
+        Maintainers:
+        - Carl Kittelberger <icedream@modernminas.de>
+        Developers:
+        - dan200; http://www.minecraftforum.net/user/991899-dan200/
+        Dependencies:
+        - minecraftforge:7.7.1
+        License: "I authorise and encourage people to create and distribute lua\nprograms
+          for ComputerCraft however they see fit (try the forums\nat computercraft.info!).
+          I also give permission for ComputerCraft\nto be included in any and all
+          mod packs, provided that the\nComputerCraft files are included completely
+          unmodified.\nIf you include ComputerCraft in a popular modpack, please\nconsider
+          donating to the development of the mod. \n"
+        UpdateTimestamp: "2013-03-26"
+        HasPlatformDependentFiles: false
+        HasPlatformIndependentFiles: true
+Version: 0
+...

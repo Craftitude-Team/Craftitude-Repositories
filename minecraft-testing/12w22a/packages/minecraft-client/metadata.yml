@@ -1,0 +1,24 @@
+---
+Name: Minecraft Client
+Description: |
+  Minecraft vanilla game client by Mojang.
+Homepage: http://minecraft.net/
+Maintainers:
+- Carl Kittelberger <icedream@modernminas.de>
+Developers:
+- Mojang AB; http://mojang.com/
+License:
+  Name: Minecraft Terms
+  URL: http://minecraft.net/terms
+Platforms:
+- all
+Dependencies:
+- requires lwjgl
+- excludes lwjgl =2.8.5
+- excludes lwjgl =2.8.1
+- requires lwjgl-util
+- requires jinput
+- suggests paul-soundsystem
+- suggests paul-soundsystem-lwjgl-openal-plugin
+- suggests paul-soundsystem-jogg-codec-plugin
+...

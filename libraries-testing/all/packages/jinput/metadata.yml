@@ -8,5 +8,7 @@ Maintainers:
 - Carl Kittelberger <icedream@modernminas.de>
 Developers:
 - Members; http://java.net/projects/jinput/members
-License: BSD; http://www.opensource.org/licenses/bsd-license.php
+License:
+  Name: BSD
+  URL: http://www.opensource.org/licenses/bsd-license.php
 ...

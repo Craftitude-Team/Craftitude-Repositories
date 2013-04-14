@@ -1,0 +1,12 @@
+---
+Date: "2011-10-25"
+Dependencies:
+- includes redpower-core =2.0pr3
+- includes redpower-logic =2.0pr3
+- includes redpower-wiring =2.0pr3
+- includes redpower-array =2.0pr3
+- includes redpower-lighting =2.0pr3
+- includes redpower-world =2.0pr3
+- includes redpower-machine =2.0pr3
+- recommends redpower-forgefix ?minecraft-forge
+...

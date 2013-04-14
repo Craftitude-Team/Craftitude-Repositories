@@ -1,14 +1,3 @@
 ---
-Name: Minecraft Server
-Description: |
-  Minecraft vanilla game server by Mojang.
-Homepage: http://minecraft.net/
-Maintainers:
-- Carl Kittelberger <icedream@modernminas.de>
-Developers:
-- Mojang AB; http://mojang.com/
-License: Minecraft Terms; http://minecraft.net/terms
-HasPlatformDependentFiles: false
-HasPlatformIndependentFiles: true
-UpdateTimestamp: "2012-07-05T13:50:05.000Z"
+Date: "2012-07-05T13:50:05.000Z"
 ...

@@ -10,7 +10,9 @@ Packages:
     - Carl Kittelberger <icedream@modernminas.de>
     Developers:
     - Members; http://java.net/projects/jinput/members
-    License: BSD; http://www.opensource.org/licenses/bsd-license.php
+    License:
+      Name: BSD
+      URL: http://www.opensource.org/licenses/bsd-license.php
     Versions:
       2.0.4:
         Date: "2011-03-22T22:12:02+00:00"
@@ -42,7 +44,9 @@ Packages:
     - Carl Kittelberger <icedream@modernminas.de>
     Developers:
     - Members; http://java.net/projects/jinput/members
-    License: BSD; http://www.opensource.org/licenses/bsd-license.php
+    License:
+      Name: BSD
+      URL: http://www.opensource.org/licenses/bsd-license.php
     Versions:
       2.0.4:
         Date: "2011-03-22T22:12:21+00:00"

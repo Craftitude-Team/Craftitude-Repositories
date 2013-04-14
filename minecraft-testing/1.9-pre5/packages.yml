@@ -25,22 +25,7 @@ Packages:
     - suggests paul-soundsystem-jogg-codec-plugin
     Versions:
       1.9-pre5:
-        Name: Minecraft Client
-        Description: |
-          Minecraft vanilla game client by Mojang.
-        Homepage: http://minecraft.net/
-        Maintainers:
-        - Carl Kittelberger <icedream@modernminas.de>
-        Developers:
-        - Mojang AB; http://mojang.com/
-        License: Minecraft Terms; http://minecraft.net/terms
-        Dependencies:
-        - lwjgl
-        - lwjgl-util
-        - jinput
-        HasPlatformDependentFiles: false
-        HasPlatformIndependentFiles: true
-        UpdateTimestamp: "2011-10-27T14:36:48.000Z"
+        Date: "2011-10-27T14:36:48.000Z"
   minecraft-server:
     Name: Minecraft Server
     Description: |
@@ -57,17 +42,6 @@ Packages:
     - all
     Versions:
       1.9-pre5:
-        Name: Minecraft Server
-        Description: |
-          Minecraft vanilla game server by Mojang.
-        Homepage: http://minecraft.net/
-        Maintainers:
-        - Carl Kittelberger <icedream@modernminas.de>
-        Developers:
-        - Mojang AB; http://mojang.com/
-        License: Minecraft Terms; http://minecraft.net/terms
-        HasPlatformDependentFiles: false
-        HasPlatformIndependentFiles: true
-        UpdateTimestamp: "2011-10-27T14:36:47.000Z"
+        Date: "2011-10-27T14:36:47.000Z"
 Version: 0
 ...

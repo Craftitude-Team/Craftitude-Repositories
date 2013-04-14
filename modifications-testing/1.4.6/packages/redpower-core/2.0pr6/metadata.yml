@@ -1,0 +1,6 @@
+---
+Dependencies:
+- requires minecraft-client <=1.4.7
+- excludes minecraft-client <1.4.6
+Date: "2012-12-21"
+...

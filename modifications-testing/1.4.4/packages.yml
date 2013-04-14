@@ -1,0 +1,24 @@
+---
+Packages:
+  computercraft:
+    Name: ComputerCraft
+    Description: |
+      ComputerCraft adds computers, turtles, networking, printing and other electronic peripherals to Minecraft.
+    Homepage: http://computercraft.info/
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - dan200; http://www.minecraftforum.net/user/991899-dan200/
+    License:
+      Text: |
+        I authorise and encourage people to create and distribute lua programs for ComputerCraft however they see fit (try the forums at computercraft.info!). I also give permission for ComputerCraft to be included in any and all mod packs, provided that the ComputerCraft files are included completely unmodified. If you include ComputerCraft in a popular modpack, please consider donating to the development of the mod.
+    Platforms:
+    - all
+    Dependencies:
+    - requires minecraft-forge
+    - suggests lua4j
+    Versions:
+      "1.47":
+        Date: "2012-11-15"
+Version: 0
+...

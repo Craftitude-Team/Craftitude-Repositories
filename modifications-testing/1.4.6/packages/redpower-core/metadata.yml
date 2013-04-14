@@ -1,0 +1,19 @@
+---
+Maintainers:
+- Carl Kittelberger <icedream@modernminas.de>
+Developers:
+- Eloraam; http://eloraam.com/
+Platforms:
+- all
+License:
+  Text: |
+    RedPower is copyrighted material. It may only be downloaded from the links provided [on http://www.eloraam.com/download-redpower/], and may not be redistributed in any form, modified or otherwise, without express permission. Decompilation or reverse-engineering is strictly prohibited. All rights not explicitly granted are reserved.
+    As a special exception, art assets (sprites, terrain textures) may be distributed intact or in modified form solely for the purpose of improving or altering the visible appearance of RedPower (ie as a "texture pack"). They may not be reused for any other purpose.
+    A small number of textures incorporated into RedPower are based on originals created by Mojang AB. Since these make up an insubstantial portion of Minecraft and are largely transformed in original ways, and are used only for the purpose of aesthetic compatibility, these are deemed a "fair use" under copyright law. All other material is the sole and original creation of Eloraam.
+    Permission is also granted to record videos of RedPower gameplay.
+    "RedPower" and "Eloraam" are trademarks of Eloraam.
+  URL: http://www.eloraam.com/download-redpower/
+Homepage: http://www.eloraam.com/
+Name: RedPower Core
+Description: Core for RedPower mods
+...

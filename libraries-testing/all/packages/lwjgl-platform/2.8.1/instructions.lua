@@ -9,4 +9,4 @@ end
 
 function Uninstall()
 	DeleteFolder("lib/lwjgl")
-end	
+end

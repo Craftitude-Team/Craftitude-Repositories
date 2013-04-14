@@ -1,0 +1,16 @@
+---
+Date: "2012-12-21"
+Dependencies:
+- includes redpower-core =2.0pr6
+- includes redpower-digital =2.0pr6
+- includes redpower-mechanical =2.0pr6
+- includes redpower-compat =2.0pr6
+- excludes redpower-logic
+- excludes redpower-wiring
+- excludes redpower-lighting
+- excludes redpower-world
+- excludes redpower-machine
+- excludes redpower-control
+- excludes redpower-array
+- excludes redpower-forgefix
+...

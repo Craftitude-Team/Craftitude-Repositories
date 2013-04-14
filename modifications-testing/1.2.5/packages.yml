@@ -1,0 +1,77 @@
+---
+Packages:
+  computercraft:
+    Name: ComputerCraft
+    Description: |
+      ComputerCraft adds computers, turtles, networking, printing and other electronic peripherals to Minecraft.
+    Homepage: http://computercraft.info/
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - dan200; http://www.minecraftforum.net/user/991899-dan200/
+    License:
+      Text: |
+        I authorise and encourage people to create and distribute lua programs for ComputerCraft however they see fit (try the forums at computercraft.info!). I also give permission for ComputerCraft to be included in any and all mod packs, provided that the ComputerCraft files are included completely unmodified. If you include ComputerCraft in a popular modpack, please consider donating to the development of the mod.
+    Platforms:
+    - all
+    Dependencies:
+    - requires minecraft-forge
+    - suggests lua4j
+    Versions:
+      "1.33":
+        Date: "2012-04-23"
+  redpower:
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - Eloraam; http://eloraam.com/
+    Platforms:
+    - all
+    License:
+      Text: |
+        RedPower is copyrighted material. It may only be downloaded from the links provided [on http://www.eloraam.com/download-redpower/], and may not be redistributed in any form, modified or otherwise, without express permission. Decompilation or reverse-engineering is strictly prohibited. All rights not explicitly granted are reserved.
+        As a special exception, art assets (sprites, terrain textures) may be distributed intact or in modified form solely for the purpose of improving or altering the visible appearance of RedPower (ie as a "texture pack"). They may not be reused for any other purpose.
+        A small number of textures incorporated into RedPower are based on originals created by Mojang AB. Since these make up an insubstantial portion of Minecraft and are largely transformed in original ways, and are used only for the purpose of aesthetic compatibility, these are deemed a "fair use" under copyright law. All other material is the sole and original creation of Eloraam.
+        Permission is also granted to record videos of RedPower gameplay.
+        "RedPower" and "Eloraam" are trademarks of Eloraam.
+      URL: http://www.eloraam.com/download-redpower/
+    Homepage: http://www.eloraam.com/
+    Virtual: true
+    Versions:
+      2.0pr5b1:
+        Date: "2012-04-21"
+        Dependencies:
+        - includes redpower-core =2.0pr5
+        - includes redpower-logic =2.0pr5
+        - includes redpower-wiring =2.0pr5
+        - includes redpower-lighting =2.0pr5
+        - includes redpower-world =2.0pr5
+        - includes redpower-machine =2.0pr5
+        - includes redpower-control =2.0pr5
+        - excludes redpower-array
+        - excludes redpower-forgefix
+  redpower-core:
+    Maintainers:
+    - Carl Kittelberger <icedream@modernminas.de>
+    Developers:
+    - Eloraam; http://eloraam.com/
+    Platforms:
+    - all
+    License:
+      Text: |
+        RedPower is copyrighted material. It may only be downloaded from the links provided [on http://www.eloraam.com/download-redpower/], and may not be redistributed in any form, modified or otherwise, without express permission. Decompilation or reverse-engineering is strictly prohibited. All rights not explicitly granted are reserved.
+        As a special exception, art assets (sprites, terrain textures) may be distributed intact or in modified form solely for the purpose of improving or altering the visible appearance of RedPower (ie as a "texture pack"). They may not be reused for any other purpose.
+        A small number of textures incorporated into RedPower are based on originals created by Mojang AB. Since these make up an insubstantial portion of Minecraft and are largely transformed in original ways, and are used only for the purpose of aesthetic compatibility, these are deemed a "fair use" under copyright law. All other material is the sole and original creation of Eloraam.
+        Permission is also granted to record videos of RedPower gameplay.
+        "RedPower" and "Eloraam" are trademarks of Eloraam.
+      URL: http://www.eloraam.com/download-redpower/
+    Homepage: http://www.eloraam.com/
+    Name: RedPower Core
+    Description: Core for RedPower mods
+    Versions:
+      2.0pr5b1:
+        Dependencies:
+        - requires minecraft-client =1.2.5
+        Date: "2012-04-21"
+Version: 0
+...

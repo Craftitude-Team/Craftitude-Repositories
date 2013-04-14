@@ -1,0 +1,13 @@
+---
+Date: "2012-05-20"
+Dependencies:
+- includes redpower-core =2.0pr5b2
+- includes redpower-logic =2.0pr5b2
+- includes redpower-wiring =2.0pr5b2
+- includes redpower-lighting =2.0pr5b2
+- includes redpower-world =2.0pr5b2
+- includes redpower-machine =2.0pr5b2
+- includes redpower-control =2.0pr5b2
+- excludes redpower-array
+- excludes redpower-forgefix
+...

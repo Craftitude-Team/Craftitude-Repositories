@@ -1,0 +1,16 @@
+---
+Name: Minekawaii
+Description: |
+  Minekawaii is a simple mod for all of your favorite Japanese snacks, in Minecraft!
+Homepage: http://www.minecraftforum.net/topic/1736987-151-minekawaii-120-japanese-food-for-minecraft/
+Maintainers:
+- Carl Kittelberger <icedream@modernminas.de>
+Developers:
+- iNyanny; http://www.minecraftforum.net/user/1065316-inyanny/
+License:
+  Name: Unknown
+Platforms:
+- all
+Dependencies:
+- requires minecraft-forge
+...

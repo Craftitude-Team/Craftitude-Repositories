@@ -1,0 +1,55 @@
+@@ -75,3 +75,53 @@
+         Date: "2012-04-21"
+-Version: 0
++  industrialcraft2:
++    Name: "IndustrialCraft\xB2"
++    Description: "This is it. IC\xB2, the future of IC.\nWhile playing it, you will
++      feel right at home again, rediscovering most of the stuff known from IC. However,
++      once you get your machines running, you will quickly notice how smooth and well-designed
++      everything works now. Wiring is easier, batterys aren't as twosided (on/off)
++      anymore, new cables, rubber stuff, new machines, EVERYTHING was added.\nCreate
++      obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an
++      Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote.
++      Or discover the much more complex mechanisms of Nuclear Engineering, blow up
++      your hut or burn your hands. Or grap the rusty ol Composite Vest, and start
++      hunting Creepers with the new, allmighty NanoSaber.\n\nIt's up to you, it's
++      MINEcraft after all.\n"
++    Homepage: http://www.industrial-craft.net/
++    Maintainers:
++    - Carl Kittelberger <icedream@modernminas.de>
++    Developers:
++    - Alblaka; http://www.industrial-craft.net/?author=1
++    - "IC\xB2 Dev-Team"
++    License:
++      Name: IMS License
++      Text: "Everything seen on this website/thread and directly related to the content
++        of this post is copyright'd by the respective author of this mod (IC\xB2 Dev-Team,
++        [...]). Any sort of files associated with this content (= the Download) may
++        only be used for it's actual purpouse (installing and playing IC\xB2). You
++        may modify any or all of the content, but are NOT allowed to public any of
++        it.\nAs well, noone besides the author and persons elected by the author are
++        allowed to provide any download links. Everyone else is NOT allowed to public
++        any sort of download, though he/she may hand out links to this website/thread
++        instead.\nExspecially it is EXPLICITELY NOT allowed for anyone besides the
++        author to earn any money by using this content's existence. This includes
++        adfly, site advertisment and donations.\nAny of the limitations above can
++        be nullified by an explicite permission of the author.\n\nAddendum I:\nTrivially,
++        all sites associated with and/or hosted by Alblaka or any member of the IC\xB2-Dev-Team
++        are allowed to provide content and/or links to content freely.\nThis addendum
++        mainly refers to any downloads hosted via the IC\xB2 wiki.\n\nAddendum II:\nAny
++        individuum is allowed to showcase this mod in form of screenshots and/or videos
++        on any platform/website/forum under following restriction:\n-A link to this
++        thread must be provided, clearly visible under/next-to the media element(s).\n\nAddendum
++        III:\nAny sort of modifications to the original IC\xB2 code may be created
++        and published within the Addons-Section of this forum.  The addon download
++        must not contain any IC\xB2 files except the ones modified and of course the
++        new files themselves. \n"
++    Platforms:
++    - all
++    Dependencies:
++    - requires minecraft-forge
++    Versions:
++      "1.103":
++        Date: "2012-11-28T16:25:09"
++Version: 1
+ ...
